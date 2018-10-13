@@ -1,0 +1,29 @@
+Versions Source Code
+
+V1.3
+https://github.com/kastius/wieistmeineip/archive/v1.3.zip
+https://github.com/kastius/wieistmeineip/archive/v1.3.tar.gz
+URL-Fix for IPv4- and IPv6-Only
+
+V1.2
+https://github.com/kastius/wieistmeineip/archive/v1.2.zip
+https://github.com/kastius/wieistmeineip/archive/v1.2.tar.gz
+Bugfix:
++Domain v6.dns-zone.net
++Domain v4.dns-zone.net
+-domain ipv6check.dns-zone.net
+-domain ipv4check.dns-zone.net
+
+V1.1
+https://github.com/kastius/wieistmeineip/archive/v1.1.zip
+https://github.com/kastius/wieistmeineip/archive/v1.1.tar.gz
+web basiertes wieistmeineip PHP-Script
+web based whatismyip PHP-Script
++add meineiplogo.png
++edit index.php
+
+V1.0
+https://github.com/kastius/wieistmeineip/archive/v1.0.zip
+https://github.com/kastius/wieistmeineip/archive/v1.0.tar.gz
+Web based PHP-Script
+Web basiertes PHP-Script
