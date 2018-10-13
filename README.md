@@ -1,5 +1,6 @@
 # wieistmeineip / whatismyip
-Web basiertes PHP-Script / web based PHP-Script
+Web basiertes PHP-Script / Web based PHP-Script
+IPv4 + IPv6 - Multifunktional / Multifunctional
 
 Install: git clone https://github.com/kastius/wieistmeineip.git
 
