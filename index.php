@@ -27,7 +27,7 @@
 			<br />
 			<table id="ipv4_table">
 				<tr>
-					<th colspan="2" id="ipv4_head">IPv4</th>
+					<th colspan="2" id="ipv4_head">--&gt;&nbsp;<a href=http://v4.dns-zone.net>IPv4</a>&nbsp;&lt;--</th>
 				<tr>
 				<tr>
 					<td class="right">IP:</td>
@@ -44,7 +44,7 @@
 			</table>
 			<table id="ipv6_table" style="display: none;">
 				<tr>
-					<th colspan="2" id="ipv6_head">--&gt;&nbsp;IPv6&nbsp;&lt;--</th>
+					<th colspan="2" id="ipv6_head">--&gt;&nbsp;<a href=http://v6.dns-zone.net>IPv6</a>&nbsp;&lt;--</th>
 				<tr>
 					<td class="right">IP:</td>
 					<td id="ipv6_ip" class="left"></td>
