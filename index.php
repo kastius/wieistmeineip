@@ -21,7 +21,9 @@
 <script type="text/javascript" src="https://ipv6check.dns-zone.net/ip-get.php"></script>
 </head>
 
-<body>		<div class="main">
+<body>		<div class="main"><br />
+<a href="/"><img src="meineiplogo.png" alt="DNS-Zone.NET" style="border: none;" id="logo" /></a>
+                        <br />
 			<br />
 			<table id="ipv4_table">
 				<tr>
