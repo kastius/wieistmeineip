@@ -22,7 +22,7 @@
 </head>
 
 <body>		<div class="main"><br />
-<a href="/"><img src="meineiplogo.png" alt="DNS-Zone.NET" style="border: none;" id="logo" /></a>
+<a href="index.php"><img src="meineiplogo.png" alt="DNS-Zone.NET" style="border: none;" id="logo" /></a>
                         <br />
 			<br />
 			<table id="ipv4_table">
