@@ -17,8 +17,8 @@
 			href="mobile.css" />
 		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 		<script type="text/javascript">ipver4=0; ipver6=0;</script>
-<script type="text/javascript" src="https://ipv4check.dns-zone.net/ip-get.php"></script>
-<script type="text/javascript" src="https://ipv6check.dns-zone.net/ip-get.php"></script>
+<script type="text/javascript" src="https://v4.dns-zone.net/ip-get.php"></script>
+<script type="text/javascript" src="https://v6.dns-zone.net/ip-get.php"></script>
 </head>
 
 <body>		<div class="main"><br />
